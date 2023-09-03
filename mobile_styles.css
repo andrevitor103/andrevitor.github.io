@@ -1,0 +1,47 @@
+@media only screen and (max-width: 800px) {
+    * {
+      background-color: white;
+    }
+
+
+    body {
+        all: initial;
+    }
+
+    .info {
+        all: initial;
+    }
+
+    .about {
+        all: initial;
+    }
+
+    .my_picture_border {
+        background-color: white;
+    }
+
+    .social_item > a > img {
+        width: 20%;
+    }
+
+    .company_info_logo_name > img {
+        width: 20%;  
+    }
+
+    .formation_info > img {
+        width: 20%;
+    }
+
+    .curse_info > img {
+        width: 20%;
+    }
+    
+    .line_style {
+        padding: 2% 0%;
+    }
+
+    .about > .description > p  {
+        padding: 4% 2%;
+        text-align: justify;
+    }
+  }
